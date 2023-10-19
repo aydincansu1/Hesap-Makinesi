@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Montserrat:wght@200;300;400&display=swap');
+body{
+    background-color: #383e42;
+    font-family: 'Electrolize', sans-serif;
+}
+.container{
+    
+    background-color: white 0.3;
+    width: 310px;
+    height: 510px;
+    justify-content: center;
+    margin:0 auto;
+    margin-top: 100px;
+    box-shadow: -2px 1px 52px -5px rgba(0,0,0,0.64);
+    border-radius: 20px;
+    font-family: 'Electrolize', sans-serif;
+    
+
+}
+ .tablo{
+
+    width: 100%;
+    
+ }
+.ekran{
+    width: 300px;
+    
+    margin-top: 100px;
+    text-align: end;
+    justify-content: end;
+    
+    border: none;
+    color: white;
+    background-color: #383e42;
+    font-size: 50px;
+    font-family: 'Electrolize', sans-serif;
+}
+
+
+.numara{
+    width: 60px;
+    height: 60px; 
+    border-radius: 50%;
+    background-color: gray;
+    color: black;
+    border: none;
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 5px;
+    font-size: 15px;
+  
+    
+}
+.numara1{
+    width: 136px;
+    height: 60px; 
+    border-radius: 50px;
+    background-color: gray;
+    color: black;
+    border: none;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 15px;
+
+}
+.numara1:hover{
+    color: white;
+}
+.numara:hover{
+    color: white;
+   
+}
+.islem{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #FF7F00;
+    color:  white;
+    border: none;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 15px;
+    
+    
+    
+
+    
+}
+.islem:hover{
+    color: #383e42;
+}
